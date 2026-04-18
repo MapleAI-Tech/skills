@@ -27,6 +27,7 @@ cp -r skills/skills/doc-align ~/.claude/skills/
 
 - `/doc-align init` — 扫描项目 md 文件，生成文档索引
 - `/doc-align` / `/doc-align sync` — 将散落的 md 文件归档到 /docs 目录
+- `/doc-align consolidate` — 梳理文档、按主题重命名、合并去重，保留最终版本
 - `/doc-align index` — 仅刷新索引
 - `/doc-align check` — 检查归档状态
 
